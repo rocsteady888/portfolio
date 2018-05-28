@@ -11,17 +11,30 @@
   top:215px;
   left:0;
   margin-left: 10%;
-  width:80%;
+  width: 80%;
   font-size:0.5em;
 }
 
 .about-headline h6 {
   background-color: #B82601;
   font-weight: bold;
-  width: 140px;
-  height: 100px;
+  padding-top: 30px;
+  height: 50px;
   margin: auto;
-  border-radius: 30%;
   color: white;
   padding-top: 12px;
+}
+
+.about-headline p {
+  font-size: 18px;
+}
+
+.profile-picture {
+  height: 300px;
+  width: auto;
+  border-radius: 100%;
+}
+
+.skills-table{
+  width: 90%;
 }

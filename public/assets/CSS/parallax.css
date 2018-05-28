@@ -26,6 +26,7 @@ header {
 }
 header .content {
   position: absolute;
+  width: 100%;
   top: 0;
   left: 0;
   right: 0;
@@ -73,6 +74,7 @@ img{
 .site {
   padding: 20em 0;
   height: 85px;
+  width: 100%;
   text-align: center;
   background-color: #efefef;
   font-size: .8em;
